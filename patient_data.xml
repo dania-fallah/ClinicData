@@ -1,0 +1,4 @@
+
+<?xml version='1.0' encoding='UTF-8'?><clinic_data><patient><id>2</id><fName>Leen</fName><br />
+<b>Warning</b>:  Undefined array key "LName" in <b>C:\xampp\htdocs\Clinic\export_xml.php</b> on line <b>16</b><br />
+<LName></LName><address>Ramallah</address><visits><visit><diagnosis>Influenza</diagnosis><treatment>Bed rest, and Vitamin C</treatment></visit></visits></patient></clinic_data>
