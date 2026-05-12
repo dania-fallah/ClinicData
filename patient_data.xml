@@ -1,1 +1,1 @@
-<?xml version='1.0' encoding='UTF-8'?><clinic_data><patient><id>2</id><fName>Leen</fName><lName>Natshah</lName><address>Ramallah</address><visits><visit><diagnosis>Influenza</diagnosis><treatment>Bed rest, and Vitamin C</treatment></visit></visits></patient></clinic_data>
+<?xml version='1.0' encoding='UTF-8'?><clinic_data><patient><id>2</id><fName>Leen</fName><LName>Natshah</LName><address>Ramallah</address><visits><visit><diagnosis>Influenza</diagnosis><treatment>Bed rest, and Vitamin C</treatment></visit></visits></patient></clinic_data>
